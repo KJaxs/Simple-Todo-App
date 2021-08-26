@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+https://imgur.com/q0dTOI9 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
