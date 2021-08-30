@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-https://i.imgur.com/fyctIbV.mp4
+https://i.imgur.com/2M15LgO.mp4
 GIF created with IMGUR
 
 ## Notes
